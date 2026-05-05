@@ -1,0 +1,24 @@
+Hi Guy,
+
+First, I want to say thank you for Virtual Desktop Streamer — it's genuinely one of the most impressive and polished applications in the VR space. The work you've put into it shows, and it's become an essential tool for a lot of people including myself.
+
+I'm reaching out to share a couple of feature requests that I think would make a meaningful difference, particularly for users who don't always have controllers available — whether that's due to dead batteries, hardware issues, or simply preferring a controller-free workflow.
+
+**Feature Requests:**
+
+1. **Monitor manipulation via head/gaze gestures (no controller required)**
+   The ability to reposition, resize, or interact with virtual monitors using gaze or head gestures when controllers aren't present would be incredibly valuable. Right now, if a controller isn't available or isn't tracked, direct monitor management becomes very difficult. Specifically something that emulates the grip trigger feature of the controllers. Even a minimal gesture-based fallback would go a long way.
+
+2. **Middle mouse button and scroll wheel emulation without controllers**
+   Many desktop workflows rely heavily on middle-click and scroll wheel input. Having a way to trigger these — whether through a keyboard shortcut, eye gaze, or some other input method — without requiring a controller would make Virtual Desktop significantly more usable in controller-free scenarios.
+
+I recognise these may already be on your radar, or there may be technical constraints I'm not aware of. I also want to be respectful of your time — if there's a better channel to submit feature requests (a feedback form, email, etc. I actively boycott X and Discord), I'd be happy to use that instead.
+
+I'm a developer myself, and if you'd ever be open to contributions, I'd genuinely love to help implement something like this. No pressure at all — I understand if the codebase isn't open to outside contributions — but the offer stands.
+
+Either way, thank you again for everything you've built. These aren't complaints, just a genuine hope that Virtual Desktop can be even more accessible for users who don't always have a working controller at hand.
+
+Best regards
+     ShadowSprite99
+     oddlyenough@oddgamingstudios.com
+         Odd Gaming Studios LLC.
